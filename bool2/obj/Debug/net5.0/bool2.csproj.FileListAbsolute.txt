@@ -1,0 +1,16 @@
+C:\Users\LENOVO\RiderProjects\bool2\bool2\bin\Debug\net5.0\bool2.exe
+C:\Users\LENOVO\RiderProjects\bool2\bool2\bin\Debug\net5.0\bool2.deps.json
+C:\Users\LENOVO\RiderProjects\bool2\bool2\bin\Debug\net5.0\bool2.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\bool2\bool2\bin\Debug\net5.0\bool2.runtimeconfig.dev.json
+C:\Users\LENOVO\RiderProjects\bool2\bool2\bin\Debug\net5.0\bool2.dll
+C:\Users\LENOVO\RiderProjects\bool2\bool2\bin\Debug\net5.0\ref\bool2.dll
+C:\Users\LENOVO\RiderProjects\bool2\bool2\bin\Debug\net5.0\bool2.pdb
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\bool2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\bool2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\bool2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\bool2.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\bool2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\bool2.dll
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\ref\bool2.dll
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\bool2.pdb
+C:\Users\LENOVO\RiderProjects\bool2\bool2\obj\Debug\net5.0\bool2.genruntimeconfig.cache
